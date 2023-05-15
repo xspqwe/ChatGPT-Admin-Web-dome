@@ -2,7 +2,7 @@
 >
 > 用户层的逻辑已经实现完毕，管理页面（后台）仍在开发中。
 > 
-> 可以关注[频道](https://t.me/s/ChatGPTAdminWebChannel)获取最新消息。
+> 可以关注[频道](https://t.me/s/ChatGPTAdminWebChannel)获取最新消息 。
 
 <div align="center">
 
